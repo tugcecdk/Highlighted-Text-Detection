@@ -1,5 +1,5 @@
 # Image-Processing
-![alt text](/image/image.png "Image")
+![alt text](/image/image.jpg "Image")
 ## Output
 '''
 Linear algebra is taken early in an undergraduate curriculum and yet offers the
